@@ -74,6 +74,15 @@ Full-stack location tracking and memory mapping application built on **Google Cl
 - **Frontend**: Responsive web design with interactive maps
 - **Stack**: JavaScript, Node.js, PostgreSQL, GCP, Firebase
 
+### 🏠 [College Sublet App](https://github.com/ChenyanFR/CSYE6200-Final-Project)
+**[View Repository →](https://github.com/ChenyanFR/CSYE6200-Final-Project)**
+
+Desktop application for college students to manage sublet housing with role-based access and multi-step application workflow.
+- **Platform**: JavaFX desktop application with full MVC architecture
+- **Features**: User authentication system, property listing management, application queue processing, admin dashboard
+- **Architecture**: Model-View-Controller pattern with separate controller, model, and FXML view layers
+- **User Roles**: Student and admin interfaces with distinct functionalities
+- **Stack**: Java, JavaFX, FXML, CSSRetry
 
 ## 📚 Currently Learning & Building
 
